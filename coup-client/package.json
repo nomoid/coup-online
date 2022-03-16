@@ -1,5 +1,6 @@
 {
   "name": "coup-client",
+  "homepage": "https://chriswu1996.github.io/coup-online",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.21.1",
     "faker": "^4.1.0",
+    "gh-pages": "^3.2.3",
     "openssl": "^1.1.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -19,6 +21,8 @@
     "socket.io-client": "^2.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "PORT=3000 react-scripts start",
     "start-pc": "set PORT=3000 && react-scripts start",
     "build": "react-scripts build",
