@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coup-online/static/css/main.79a0a5b5.chunk.css",
-    "main.js": "/coup-online/static/js/main.e8e9eacc.chunk.js",
-    "main.js.map": "/coup-online/static/js/main.e8e9eacc.chunk.js.map",
+    "main.js": "/coup-online/static/js/main.23290d92.chunk.js",
+    "main.js.map": "/coup-online/static/js/main.23290d92.chunk.js.map",
     "runtime-main.js": "/coup-online/static/js/runtime-main.2f8124c6.js",
     "runtime-main.js.map": "/coup-online/static/js/runtime-main.2f8124c6.js.map",
     "static/js/2.b5fcde9a.chunk.js": "/coup-online/static/js/2.b5fcde9a.chunk.js",
     "static/js/2.b5fcde9a.chunk.js.map": "/coup-online/static/js/2.b5fcde9a.chunk.js.map",
     "index.html": "/coup-online/index.html",
-    "precache-manifest.bbbc2d65f177003f53a3caaba90bc4c5.js": "/coup-online/precache-manifest.bbbc2d65f177003f53a3caaba90bc4c5.js",
+    "precache-manifest.c6c9a2fdfd1c74033b5abcceea406d3d.js": "/coup-online/precache-manifest.c6c9a2fdfd1c74033b5abcceea406d3d.js",
     "service-worker.js": "/coup-online/service-worker.js",
     "static/css/main.79a0a5b5.chunk.css.map": "/coup-online/static/css/main.79a0a5b5.chunk.css.map",
     "static/js/2.b5fcde9a.chunk.js.LICENSE.txt": "/coup-online/static/js/2.b5fcde9a.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.2f8124c6.js",
     "static/js/2.b5fcde9a.chunk.js",
     "static/css/main.79a0a5b5.chunk.css",
-    "static/js/main.e8e9eacc.chunk.js"
+    "static/js/main.23290d92.chunk.js"
   ]
 }

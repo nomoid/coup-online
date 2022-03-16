@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37b4d532e069efbc9ab1870336b90bde",
+    "revision": "769da27cda3b72d5e9bf42483ad45ed7",
     "url": "/coup-online/index.html"
   },
   {
-    "revision": "7392d1c171e78bb9a41f",
+    "revision": "04ddc393d6a2888f4791",
     "url": "/coup-online/static/css/main.79a0a5b5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coup-online/static/js/2.b5fcde9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7392d1c171e78bb9a41f",
-    "url": "/coup-online/static/js/main.e8e9eacc.chunk.js"
+    "revision": "04ddc393d6a2888f4791",
+    "url": "/coup-online/static/js/main.23290d92.chunk.js"
   },
   {
     "revision": "c74be44034423944087e",
