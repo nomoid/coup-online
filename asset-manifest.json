@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coup-online/static/css/main.79a0a5b5.chunk.css",
+    "main.js": "/coup-online/static/js/main.3de703c3.chunk.js",
+    "main.js.map": "/coup-online/static/js/main.3de703c3.chunk.js.map",
+    "runtime-main.js": "/coup-online/static/js/runtime-main.2f8124c6.js",
+    "runtime-main.js.map": "/coup-online/static/js/runtime-main.2f8124c6.js.map",
+    "static/js/2.b5fcde9a.chunk.js": "/coup-online/static/js/2.b5fcde9a.chunk.js",
+    "static/js/2.b5fcde9a.chunk.js.map": "/coup-online/static/js/2.b5fcde9a.chunk.js.map",
+    "index.html": "/coup-online/index.html",
+    "precache-manifest.f66d57fcaddcbe8f95ad1e00cb56d28c.js": "/coup-online/precache-manifest.f66d57fcaddcbe8f95ad1e00cb56d28c.js",
+    "service-worker.js": "/coup-online/service-worker.js",
+    "static/css/main.79a0a5b5.chunk.css.map": "/coup-online/static/css/main.79a0a5b5.chunk.css.map",
+    "static/js/2.b5fcde9a.chunk.js.LICENSE.txt": "/coup-online/static/js/2.b5fcde9a.chunk.js.LICENSE.txt",
+    "static/media/CheatSheet.svg": "/coup-online/static/media/CheatSheet.ebc97bb6.svg",
+    "static/media/Chicken.svg": "/coup-online/static/media/Chicken.28e8baf1.svg",
+    "static/media/logo.svg": "/coup-online/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f8124c6.js",
+    "static/js/2.b5fcde9a.chunk.js",
+    "static/css/main.79a0a5b5.chunk.css",
+    "static/js/main.3de703c3.chunk.js"
+  ]
+}
